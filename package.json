@@ -1,0 +1,26 @@
+{
+  "name": "uberr",
+  "version": "1.0.0",
+  "description": "Cold beers at hard times",
+  "main": "www",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "beer",
+    "ubeer"
+  ],
+  "author": "Adalberto Junior",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "husky": "^0.14.3",
+    "jest": "^22.4.2",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.35.1",
+    "sequelize-classes": "^0.1.12"
+  }
+}
